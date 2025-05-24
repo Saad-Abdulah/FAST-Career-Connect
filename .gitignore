@@ -1,0 +1,67 @@
+# Sensitive configuration files
+DatabaseConfig.cs
+App.config
+*.config
+*.settings
+env.txt
+appsettings.json
+Web.config
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache/options directory
+.vs/
+
+# Visual Studio project files
+*.csproj.user
+
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+
+# Dataset files
+*DataSet*.xsc
+*DataSet*.xsd
+*DataSet*.xss
+*DataSet.Designer.cs
+*DataSet.cs
+
+# Report files
+*.rdlc
+*.rptproj.rsuser
+
+# Windows Forms Designer generated files
+*.[Dd]esigner.cs
+*.resx
+
+# Others
+*.cache
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc 
