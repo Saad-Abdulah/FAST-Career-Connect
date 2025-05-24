@@ -49,7 +49,6 @@ bld/
 *DataSet.cs
 
 # Report files
-*.rdlc
 *.rptproj.rsuser
 
 # Windows Forms Designer generated files
